@@ -39,6 +39,3 @@ npm start
 - React.js
 - Express.js
 - IPFS (Infura or local node)
-
-## License
-MIT
